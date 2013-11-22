@@ -1,4 +1,4 @@
 tipcalculator
 =============
 
-Created from codepath tipcalculator walkthrough
+Basic tip calculator
